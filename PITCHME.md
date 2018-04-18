@@ -7,8 +7,6 @@
 ## Practical Windows 10:
 ### Making sense of the new paradigm
 
-![CC-BY-NC-SA License Notice](assets/cc-notice.png)
-
 ---
 
 @title[whoami]
@@ -19,7 +17,7 @@
 (Get-Item Speakers:\DavisM).Synopsis
 ```
 
-Director for User Support & Engagement @ LeTourneau University [LETUIT](http://www.letu.edu/it), on Twitter [@mdavis332](https://twitter.com/mdavis332), contributor to open source PowerShell projects, user of SCCM since 2007, and fan of the oxford comma.
+Director for User Support & Engagement @ [LeTourneau University](http://www.letu.edu/it), on Twitter [@mdavis332](https://twitter.com/mdavis332), contributor to open source PowerShell projects, user of SCCM since 2007, and fan of the oxford comma.
 
 ---
 
