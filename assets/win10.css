@@ -1,0 +1,12 @@
+.reveal section img {
+  border: none;
+  box-shadow: 0 0 0;
+}
+
+.reveal section img[src$="assets/cc-notice.png"] {
+  bottom: 20;
+  left: 0;
+  position: fixed;
+  height: 10%;
+  width: auto;
+}
