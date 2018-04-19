@@ -14,7 +14,7 @@
 # Who Am I?
 
 ```powershell
-(Get-Item Presenter:\MichaelDavis).Synopsis
+Get-Item Presenter:\MichaelDavis
 
 Position        Twitter     Infra       Hobbies
 --------------  ----------  ------      ------------
