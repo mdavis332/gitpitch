@@ -17,8 +17,7 @@
 (Get-Item Presenter:\MichaelDavis).Synopsis
 ```
 
-@fa[university](Director for User Support & Engagement at [LeTourneau University](http://www.letu.edu/it))
-
+@fa[university](Director for User Support & Engagement at LeTourneau University)
 @fa[twitter][@mdavis332](https://twitter.com/mdavis332) 
 @fa[terminal](contributor to open source PowerShell projects)
 @fa[cubes](user of SCCM since 2007)
