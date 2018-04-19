@@ -3,3 +3,4 @@ theme-override      : assets/win10.css
 background          : assets/win10-bg.png
 background-size     : auto 40%
 background-position : top left
+remote-control      : true

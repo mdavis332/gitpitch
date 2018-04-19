@@ -15,6 +15,12 @@
 
 ```powershell
 (Get-Item Presenter:\MichaelDavis).Synopsis
+
+Position        Twitter     Infra       Hobbies
+--------------  ----------  ------      ------------
+Director,       @mdavis332  SCCM        Oxford comma
+User Support &
+Engagement
 ```
 
 @fa[university]Director for User Support & Engagement at LeTourneau University
