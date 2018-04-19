@@ -22,13 +22,13 @@ Director,       @mdavis332  SCCM        Oxford comma
 User Support &
 Engagement
 ```
-
+<!---
 @fa[university]Director for User Support & Engagement at LeTourneau University
 @fa[twitter][@mdavis332](https://twitter.com/mdavis332) 
 @fa[terminal](contributor to open source PowerShell projects)
 @fa[cubes](user of SCCM since 2007)
 @fa[paragraph](and fan of the oxford comma)
-
+-->
 ---
 
 # New Paradigm?
