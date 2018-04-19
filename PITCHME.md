@@ -17,7 +17,7 @@
 Get-Item Presenter:\MichaelDavis
 
 Position        Twitter     Infra       Hobbies
---------------  ----------  ------      ------------
+========        ==========  =====       ============
 Director,       @mdavis332  SCCM        Oxford comma
 User Support &
 Engagement
